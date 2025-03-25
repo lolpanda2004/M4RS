@@ -82,7 +82,7 @@ In the demo, you'll:
 - **Lead Development**: Lathika Devanand
 - **3D Modelers**: Jiivitha A
 - **VR Integration Specialists**: Prisha C, Keerthi Devenderian
-- **Scientific Advisors**: aya Varsha R
+- **Scientific Advisors**: Jaya Varsha R
 
 ---
 
