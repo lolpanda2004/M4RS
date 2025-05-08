@@ -86,13 +86,6 @@ In the demo, you'll:
 
 ---
 
-## Feedback and Support
-If you encounter any issues or want to provide feedback, please reach out via:
-- Email: [support@M4RSproject.com](mailto:support@M4RSproject.com)
-- Website: [www.M4RSproject.com](http://www.M4RSproject.com)
-
----
-
 ## License
 M4RS is released under the [MIT License](https://opensource.org/licenses/MIT). Please review the terms before distribution or modification.
 
